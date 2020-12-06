@@ -21,8 +21,6 @@ def convert_to_dict(line):
     return out_dict
 
 
-
-
 # set req_keys
 req_keys = ['byr', 'iyr', 'eyr', 'hgt', 'ecl', 'pid']
 
