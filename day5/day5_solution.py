@@ -1,4 +1,4 @@
-# Advent of Code - Day 4
+# Advent of Code - Day 5
 #
 # Part 1: decode the positions and id of a seat based on the binary representation
 #   For example, consider just the first seven characters of FBFBBFFRLR:
