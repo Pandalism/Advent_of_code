@@ -1,4 +1,4 @@
-# Advent of Code - Day 7
+# Advent of Code - Day 8
 # Part 1: find the accumulated variable in a set of instructions just as it enters an infinite loop
 
 
